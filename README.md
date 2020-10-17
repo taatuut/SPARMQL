@@ -11,3 +11,5 @@ compound indexes spol, posl and ospl, check most used access patterns, more vari
 bitemporality
 
 use of a sleeve like structure as a overall container with distinct sections: header with labels and timestamps, content with triples, ...? 
+
+Using mgenerate to create a defaukt sample data set
