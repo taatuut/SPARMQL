@@ -2,7 +2,7 @@
 
 json triples in MongoDB
 
-MQL2SPARQL layer for query and function parsing
+MQL2SPARQL layer for query and function parsing (CharmQL)
 
 additional 'label' field for triple (hence quad) context: add a label for named graphs, can insert same triple multiple times with different labels
 
