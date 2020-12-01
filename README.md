@@ -12,4 +12,4 @@ bitemporality
 
 use of a sleeve like structure as a overall container with distinct sections: header with labels and timestamps, content with triples, ...? 
 
-Using mgenerate to create a defaukt sample data set
+Using mgenerate to create a default sample data set
